@@ -1,1 +1,5 @@
-### Introducción a JavaScript
+## Introducción a JavaScript
+
+### Fundamentos de JavaScript
+
+#### Variables 
