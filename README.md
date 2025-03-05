@@ -1,4 +1,4 @@
 ## Introducción a JavaScript
 
-### -> Fundamentos de JavaScript
+### * Fundamentos de JavaScript
 #### 1.Variables var let const  
