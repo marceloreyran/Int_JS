@@ -11,3 +11,5 @@ console.log(resultado);
 resultado = Math.floor(2.9);
 console.log(resultado);
 /// Raiz cuadrada
+resultado = Math.sqrt(9);
+console.log(resultado);
