@@ -19,3 +19,7 @@ console.log(++resultado);
 //Decremento --resultado es primero decrementa y luego muestra el resultado
 resultado --;
 console.log(--resultado);
+
+//Incremento en 3
+resultado += 3;
+console.log(resultado);
