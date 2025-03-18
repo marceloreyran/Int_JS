@@ -23,3 +23,12 @@ console.log(--resultado);
 //Incremento en 3
 resultado += 3;
 console.log(resultado);
+
+let puntaje = 10;
+puntaje += 10;
+console.log(puntaje);
+
+//Suma de dos números
+let puntaje2 = 20;
+puntaje2 +=  //Suma de dos números
+console.log(puntaje2);
