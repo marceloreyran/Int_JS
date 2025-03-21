@@ -42,3 +42,8 @@ console.log(puntaje3);
 let puntaje4 = 20;
 puntaje4 *=  //Multiplicación de dos números
 console.log(puntaje4);
+
+//División de dos números
+let puntaje5 = 20;
+puntaje5 /=  //División de dos números
+console.log(puntaje5);
