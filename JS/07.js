@@ -47,3 +47,8 @@ console.log(puntaje4);
 let puntaje5 = 20;
 puntaje5 /=  //División de dos números
 console.log(puntaje5);
+
+//Resto de dos números
+let puntaje6 = 20;  
+puntaje6 %=  //Resto de dos números 
+console.log(puntaje6);
