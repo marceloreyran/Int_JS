@@ -52,3 +52,9 @@ console.log(puntaje5);
 let puntaje6 = 20;  
 puntaje6 %=  //Resto de dos números 
 console.log(puntaje6);
+
+//Operaciones con números decimales
+let puntaje7 = 20.2;
+puntaje7 +=  //Suma de dos números
+console.log(puntaje7);
+
