@@ -58,3 +58,7 @@ let puntaje7 = 20.2;
 puntaje7 +=  //Suma de dos números
 console.log(puntaje7);
 
+//Resta de dos números
+let puntaje8 = 20.2;
+puntaje8 -=  //Resta de dos números 
+console.log(puntaje8);
