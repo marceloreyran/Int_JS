@@ -62,3 +62,8 @@ console.log(puntaje7);
 let puntaje8 = 20.2;
 puntaje8 -=  //Resta de dos números 
 console.log(puntaje8);
+
+//Multiplicación de dos números
+let puntaje9 = 20.2;
+puntaje9 *=  //Multiplicación de dos números
+console.log(puntaje9);
