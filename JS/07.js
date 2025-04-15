@@ -72,3 +72,8 @@ console.log(puntaje9);
 let puntaje10 = 20.2;
 puntaje10 /=  //División de dos números
 console.log(puntaje10);
+
+///Operaciones con números decimales
+let puntaje11 = 20.2;
+puntaje11 %=  //Resto de dos número
+console.log(puntaje11);
