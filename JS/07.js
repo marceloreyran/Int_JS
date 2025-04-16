@@ -77,3 +77,8 @@ console.log(puntaje10);
 let puntaje11 = 20.2;
 puntaje11 %=  //Resto de dos número
 console.log(puntaje11);
+
+//Operaciones con números decimales
+let puntaje12 = 20.2;
+puntaje12 **=  //Exponenciación de dos números
+console.log(puntaje12);
