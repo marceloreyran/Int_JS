@@ -87,3 +87,9 @@ console.log(puntaje12);
 let puntaje13 = 20.2;
 puntaje13 **=  //Exponenciación de dos números
 console.log(puntaje13);
+
+//Operaciones con números decimales
+let puntaje14 = 20.2;
+puntaje14 **=  //Exponenciación de dos números
+console.log(puntaje14);
+
