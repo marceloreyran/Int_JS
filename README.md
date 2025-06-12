@@ -1,6 +1,6 @@
 ## Introducción a JavaScript
 
-### * Fundamentos de JavaScript
+###  Fumentos de JavaScript
 #### 1.Variables var let const  
 #### 2.Numeros
 #### 3.
